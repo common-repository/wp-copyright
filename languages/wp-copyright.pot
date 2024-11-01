@@ -1,0 +1,51 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-07 12:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: main.php:83
+msgid "Copyright"
+msgstr ""
+
+#: main.php:84
+msgid ""
+"The copyright information for this image (Required to remove pixelation)"
+msgstr ""
+
+#: main.php:552
+msgid ""
+"Warning: GD library not installed. Bluring of uploaded images will fail."
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Copyright"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Enforces copyright discipline by blurring all uploaded images as long as "
+"copyright info is undefined."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/wp-copyright"
+msgstr ""
+
+#. Author of the plugin
+msgid "zitrusblau.de"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.zitrusblau.de"
+msgstr ""

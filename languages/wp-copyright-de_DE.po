@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Copyright\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-07 12:25+0000\n"
+"PO-Revision-Date: 2017-09-12 12:02+0200\n"
+"Last-Translator: daniel klotz <klotz@zitrusblau.de>\n"
+"Language-Team: zitrusblau.de\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: main.php:83
+msgid "Copyright"
+msgstr "Urheberrecht"
+
+#: main.php:84
+msgid ""
+"The copyright information for this image (Required to remove pixelation)"
+msgstr ""
+"Der Urheberrechtevermerk für dieses Bild (Eingabe entfernt die "
+"Verfremdung)"
+
+#: main.php:552
+msgid ""
+"Warning: GD library not installed. Bluring of uploaded images will fail."
+msgstr ""
+"Warnung: Die GD Library ist nicht installiert. Die Verfremdung von "
+"hochgeladenen Bildern wird nicht funktionieren."
+
+#. Name of the plugin
+msgid "WP Copyright"
+msgstr "WP Copyright"
+
+#. Description of the plugin
+msgid ""
+"Enforces copyright discipline by blurring all uploaded images as long as "
+"copyright info is undefined."
+msgstr ""
+"Macht die Angabe von Urheberrechtsangaben bei Bildern verpflichtend "
+"indem alle hochgeladenen Bilder verfremdet werden solange das "
+"Urheberrecht pro Bild nicht angegeben wird."
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/wp-copyright"
+msgstr "https://wordpress.org/plugins/wp-copyright"
+
+#. Author of the plugin
+msgid "zitrusblau.de"
+msgstr "zitrusblau.de"
+
+#. Author URI of the plugin
+msgid "https://www.zitrusblau.de"
+msgstr "https://www.zitrusblau.de"
